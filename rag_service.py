@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize FastAPI app
-app = FastAPI()
+app = FastAPI(title="Talkative Uni Peer RAG Service")
 
 # Configure CORS
 app.add_middleware(
@@ -56,6 +56,10 @@ Trả lời ngắn gọn, chính xác dựa trên nội dung trên:
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get("/health")
+async def health_check():
+    return {"status": "healthy"}
+
 @app.post("/ask")
 async def ask_question(query: Query):
     try:
@@ -64,8 +68,8 @@ async def ask_question(query: Query):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-# Railway will use the PORT environment variable
 if __name__ == "__main__":
     import uvicorn
     port = int(os.getenv("PORT", 8000))
-    uvicorn.run(app, host="0.0.0.0", port=port)
+    host = os.getenv("HOST", "0.0.0.0")
+    uvicorn.run(app, host=host, port=port)
