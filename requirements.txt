@@ -1,0 +1,14 @@
+wandb>=0.15.0
+python-dotenv>=1.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+torch>=2.0.0
+tqdm>=4.65.0
+fastapi==0.109.2
+uvicorn==0.27.1
+sentence-transformers==2.5.1
+faiss-cpu==1.7.4
+numpy==1.26.4
+google-generativeai==0.3.2
+pydantic==2.6.1
+pyngrok==7.0.0 
