@@ -1,0 +1,394 @@
+[
+  {
+    "input": "Nội quy này được ban hành nhằm mục đích gì?",
+    "target": "Để đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc gia TP.HCM."
+  },
+  {
+    "input": "Nội quy này được ban hành theo quyết định nào?",
+    "target": "Ban hành theo Quyết định số 276/QĐ-ĐHQT/ĐT ngày 10/9/2008 của Hiệu trưởng Trường Đại học Quốc tế Tp.HCM."
+  },
+  {
+    "input": "Quy định về việc lên lớp và trang phục của sinh viên là gì?",
+    "target": "Phải lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh lịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường bằng Tiếng Anh."
+  },
+  {
+    "input": "Quy định về thái độ với thầy cô và bạn bè là gì?",
+    "target": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa đồng và sẵn sàng giúp đỡ bạn bè."
+  },
+  {
+    "input": "Quy định về việc đi xe buýt là gì?",
+    "target": "Cần xếp hàng thứ tự trước sau khi lên xe, giữ gìn vệ sinh, văn minh lịch sự và trật tự trên xe buýt."
+  },
+  {
+    "input": "Quy định về vệ sinh và sử dụng phòng học là gì?",
+    "target": "Phải giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không được mang hoặc sử dụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm."
+  },
+  {
+    "input": "Quy định về việc nghỉ trưa là gì?",
+    "target": "Không được nằm ở khu vực hành lang, trên lối đi. Được nghỉ trưa tại phòng học từ 11 giờ 30 đến 12 giờ 30."
+  },
+  {
+    "input": "Quy định về an ninh trật tự trong khuôn viên trường là gì?",
+    "target": "Phải đảm bảo an ninh trật tự trong khuôn viên nhà trường, không gây tiếng ồn, không sử dụng các phương tiện gây tiếng ồn; không chơi thể thao, chạy nhảy đùa giỡn trong phòng học, khu vực gần phòng học, khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường."
+  },
+  {
+    "input": "Quy định về việc tuân thủ quy định chung của tòa nhà là gì?",
+    "target": "Phải tuân thủ theo tất cả quy định chung của tòa nhà Điều hành ĐHQG-HCM. Các loại phương tiện vào trường phải gửi đúng nơi quy định."
+  },
+  {
+    "input": "Quy định về việc bảo quản tài sản và trang thiết bị là gì?",
+    "target": "Phải giữ gìn bảo quản tài sản và các trang thiết bị của nhà trường. Thực hiện tốt quy định về việc mượn và trả thiết bị phục vụ công tác giảng dạy. Không tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không dán giấy, viết vẽ trên tường, bàn học."
+  },
+  {
+    "input": "Quy định về việc tổ chức hội họp và sử dụng trang thiết bị là gì?",
+    "target": "Chỉ được phép tổ chức hội họp, di chuyển bàn ghế, trang trí phòng học, sử dụng các trang thiết bị khi có sự chấp thuận của Phòng Quản trị Thiết bị."
+  },
+  {
+    "input": "Quy định về việc sử dụng trang thiết bị của nhà trường là gì?",
+    "target": "Không được sử dụng trang thiết bị của nhà trường vào các mục đích khác với học tập và nghiên cứu."
+  },
+  {
+    "input": "Quy định về việc sử dụng thang máy là gì?",
+    "target": "Không được đùa giỡn trong thang máy, tùy tiện bấm chọn các tầng khi không có nhu cầu."
+  },
+  {
+    "input": "Quy định về việc hút thuốc và uống rượu bia là gì?",
+    "target": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học."
+  },
+  {
+    "input": "Quy định về các hoạt động bị cấm là gì?",
+    "target": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
+  },
+  {
+    "input": "Quy định về việc sản xuất, buôn bán và sử dụng các chất cấm là gì?",
+    "target": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất gây cháy nổ, chất ma túy, hàng cấm; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
+  },
+  {
+    "input": "Quy định về các hoạt động tôn giáo và mê tín dị đoan là gì?",
+    "target": "Nghiêm cấm tổ chức, tham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn giáo trong nhà trường và các hoạt động vi phạm đạo đức khác."
+  },
+  {
+    "input": "Hiệu lực thi hành của nội quy này là gì?",
+    "target": "Nội quy này được áp dụng kể từ ngày ký."
+  },
+  {
+    "input": "Quy định về xử lý vi phạm nội quy là gì?",
+    "target": "Mọi vi phạm tùy mức độ cụ thể sẽ được xử lý từ khiển trách đến buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan chức năng xử lý theo qui định của pháp luật."
+  },
+  {
+    "input": "Quy định về việc sử dụng phòng học và giảng đường là gì?",
+    "target": "Không được mang thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm. Không được chơi thể thao, chạy nhảy đùa giỡn trong phòng học và khu vực gần phòng học."
+  },
+  {
+    "input": "Quy định về việc sử dụng khu vực hành chính là gì?",
+    "target": "Không được gây ồn ào, mất trật tự trong khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường."
+  },
+  {
+    "input": "Quy định về việc sử dụng tài sản công là gì?",
+    "target": "Phải giữ gìn và bảo vệ tài sản công, không được tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không được dán giấy, viết vẽ trên tường, bàn học."
+  },
+  {
+    "input": "Quy định về việc sử dụng Internet trong trường là gì?",
+    "target": "Cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
+  },
+  {
+    "input": "Quy định về việc tổ chức các hoạt động trong trường là gì?",
+    "target": "Không được tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
+  },
+  {
+    "input": "Quy định về việc sử dụng ngôn ngữ giao tiếp trong trường là gì?",
+    "target": "Ngôn ngữ giao tiếp trong khuôn viên Nhà trường phải bằng Tiếng Anh."
+  },
+  {
+    "input": "Quy chế này quy định về vấn đề gì?",
+    "target": "Quy chế này quy định việc đánh giá kết quả rèn luyện của sinh viên tại Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM), bao gồm: Đánh giá kết quả rèn luyện và khung điểm; phân loại và quy trình đánh giá; tổ chức đánh giá và sử dụng kết quả; tổ chức thực hiện."
+  },
+  {
+    "input": "Quy chế này áp dụng cho những đối tượng nào?",
+    "target": "Quy chế này áp dụng đối với sinh viên được đào tạo trình độ đại học hệ chính quy tại các trường đại học thành viên, khoa trực thuộc và các đơn vị được ĐHQG-HCM giao nhiệm vụ đào tạo trình độ đại học (gọi chung là cơ sở đào tạo)."
+  },
+  {
+    "input": "Mục đích của việc đánh giá kết quả rèn luyện sinh viên là gì?",
+    "target": "Mục đích là góp phần thực hiện mục tiêu giáo dục con người phát triển toàn diện; nâng cao công tác giáo dục thái độ, bồi dưỡng đạo đức, nhân cách, phẩm chất và năng lực hoạt động xã hội cho sinh viên, đáp ứng yêu cầu của sự nghiệp xây dựng, phát triển và bảo vệ đất nước; đảm bảo hoàn thành tầm nhìn, sứ mạng, mục tiêu của ĐHQG-HCM và cơ sở đào tạo."
+  },
+  {
+    "input": "Các nguyên tắc đánh giá kết quả rèn luyện sinh viên là gì?",
+    "target": "Các nguyên tắc bao gồm: thực hiện nghiêm túc quy trình và tiêu chí đánh giá; đảm bảo khách quan, chính xác, công bằng, công khai; đảm bảo bình đẳng, dân chủ; tạo điều kiện cho sinh viên rèn luyện; thể hiện tính hệ thống, thống nhất; ứng dụng công nghệ thông tin; phối hợp đồng bộ giữa các bộ phận."
+  },
+  {
+    "input": "Các nội dung đánh giá kết quả rèn luyện bao gồm những gì?",
+    "target": "Bao gồm 5 nội dung: Ý thức và thái độ tham gia học tập và nghiên cứu khoa học (tối đa 30đ); Ý thức chấp hành nội quy, quy chế, quy định (tối đa 20đ); Ý thức tham gia các hoạt động chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao (tối đa 25đ); Ý thức công dân trong quan hệ cộng đồng (tối đa 25đ); Các nội dung cộng thêm (tối đa 10đ)."
+  },
+  {
+    "input": "Các tiêu chí đánh giá về ý thức và thái độ tham gia học tập và nghiên cứu khoa học là gì?",
+    "target": "Bao gồm: Ý thức và thái độ trong học tập; Ý thức tham gia các câu lạc bộ học thuật, hoạt động ngoại khóa, nghiên cứu khoa học; Ý thức tham gia các kỳ thi, cuộc thi; Tinh thần vượt khó, phấn đấu vươn lên; Hỗ trợ và tham gia tích cực vào các hoạt động học thuật; Kết quả học tập và nghiên cứu khoa học."
+  },
+  {
+    "input": "Các tiêu chí đánh giá về ý thức chấp hành nội quy, quy chế, quy định là gì?",
+    "target": "Bao gồm: Ý thức chấp hành chủ trương chính sách, pháp luật của Nhà nước; Ý thức chấp hành các nội quy, quy chế và quy định trong cơ sở đào tạo; Ý thức tham gia Tuần Sinh hoạt công dân - sinh viên."
+  },
+  {
+    "input": "Các tiêu chí đánh giá về ý thức tham gia các hoạt động chính trị, xã hội là gì?",
+    "target": "Bao gồm: Ý thức và hiệu quả tham gia các hoạt động rèn luyện về chính trị, xã hội, văn hóa, văn nghệ, thể dục thể thao; Ý thức và hiệu quả tham gia xây dựng, đóng góp, quảng bá hình ảnh của cơ sở đào tạo và ĐHQG-HCM; Tham gia tuyên truyền, phòng chống tội phạm và các tệ nạn xã hội."
+  },
+  {
+    "input": "Các tiêu chí đánh giá về ý thức công dân trong quan hệ cộng đồng là gì?",
+    "target": "Bao gồm: Ý thức chấp hành và tham gia tuyên truyền các chủ trương của Đảng, chính sách, pháp luật của Nhà nước trong cộng đồng; Ý thức và hiệu quả tham gia các hoạt động công ích, tình nguyện, công tác xã hội."
+  },
+  {
+    "input": "Các nội dung cộng thêm điểm bao gồm những gì?",
+    "target": "Bao gồm: Sinh viên được cấp trung ương, tỉnh/thành phố khen thưởng hoặc được tặng Bằng khen của Giám đốc ĐHQG-HCM; Sinh viên có hoàn cảnh gia đình đặc biệt khó khăn, khuyết tật, mồ côi có nghị lực phấn đấu; Ý thức, tinh thần, thái độ, uy tín và hiệu quả công việc của sinh viên được phân công nhiệm vụ quản lý."
+  },
+  {
+    "input": "Thời gian và cách tính kết quả rèn luyện được quy định như thế nào?",
+    "target": "Việc đánh giá được tiến hành định kỳ theo học kỳ chính, năm học và toàn khóa học. Điểm rèn luyện học kỳ là tổng điểm của 5 nội dung đánh giá. Điểm năm học là trung bình cộng của điểm các học kỳ chính. Điểm toàn khóa là trung bình cộng của điểm các học kỳ chính."
+  },
+  {
+    "input": "Phân loại kết quả rèn luyện được quy định như thế nào?",
+    "target": "Kết quả rèn luyện được phân thành các loại: xuất sắc (90-100 điểm), tốt (80-89 điểm), khá (65-79 điểm), trung bình (50-64 điểm), yếu (dưới 50 điểm). Sinh viên có kết quả từ trung bình trở lên là đạt."
+  },
+  {
+    "input": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên bị kỷ luật là gì?",
+    "target": "Sinh viên bị kỷ luật mức khiển trách không được vượt quá loại khá. Sinh viên bị kỷ luật mức cảnh cáo không được vượt quá loại trung bình. Sinh viên bị kỷ luật mức buộc thôi học không được đánh giá kết quả rèn luyện."
+  },
+  {
+    "input": "Quy trình đánh giá kết quả rèn luyện được thực hiện như thế nào?",
+    "target": "Quy trình gồm các bước: Sinh viên tự đánh giá; Giáo viên chủ nhiệm và Ban cán sự xem xét, thông qua mức điểm tự đánh giá; Hội đồng cấp khoa xem xét, thống nhất; Hội đồng cấp cơ sở đào tạo họp xét, thống nhất; Thủ trưởng quyết định công nhận kết quả."
+  },
+  {
+    "input": "Thành phần của Hội đồng cấp cơ sở đào tạo bao gồm những ai?",
+    "target": "Bao gồm: Chủ tịch Hội đồng (Thủ trưởng hoặc Phó Thủ trưởng được ủy quyền); Thường trực Hội đồng (Trưởng phòng công tác sinh viên); Các ủy viên (Đại diện Lãnh đạo các khoa, phòng chức năng, Đoàn thanh niên và Hội sinh viên)."
+  },
+  {
+    "input": "Kết quả đánh giá rèn luyện được sử dụng như thế nào?",
+    "target": "Được sử dụng để: xét tốt nghiệp; xét duyệt học bổng; xét khen thưởng - kỷ luật; xét tham gia hoạt động giao lưu quốc tế; xét thôi học, ngừng học; xét lưu trú ký túc xá; xét giải quyết việc làm thêm; xét miễn giảm chi phí, dịch vụ."
+  },
+  {
+    "input": "Quy định về khen thưởng đối với sinh viên có kết quả rèn luyện xuất sắc là gì?",
+    "target": "Sinh viên có kết quả rèn luyện xuất sắc được cơ sở đào tạo xem xét biểu dương, khen thưởng và đề nghị tặng Bằng khen Giám đốc ĐHQG-HCM theo quy định tại Quy chế thi đua, khen thưởng và Kỷ luật học sinh, sinh viên ĐHQG-HCM."
+  },
+  {
+    "input": "Quy định về kỷ luật đối với sinh viên có kết quả rèn luyện yếu là gì?",
+    "target": "Sinh viên bị xếp loại rèn luyện yếu trong hai học kỳ chính liên tiếp lần thứ nhất thì xem xét kỷ luật ở mức độ cảnh cáo và nếu bị xếp loại rèn luyện yếu hai học kỳ chính liên tiếp lần thứ hai sẽ bị buộc thôi học."
+  },
+  {
+    "input": "Quyền khiếu nại về kết quả đánh giá rèn luyện được quy định như thế nào?",
+    "target": "Sinh viên có quyền khiếu nại lên các phòng chức năng hoặc Thủ trưởng cơ sở đào tạo nếu thấy công tác đánh giá kết quả rèn luyện chưa chính xác. Cơ sở đào tạo có trách nhiệm giải quyết, trả lời theo quy định của pháp luật về khiếu nại."
+  },
+  {
+    "input": "Trách nhiệm của ĐHQG-HCM trong công tác đánh giá kết quả rèn luyện là gì?",
+    "target": "ĐHQG-HCM có trách nhiệm chỉ đạo, kiểm tra việc thực hiện công tác đánh giá kết quả rèn luyện sinh viên ở các cơ sở đào tạo; giao Ban Công tác Sinh viên tham mưu, giúp việc cho Giám đốc ĐHQG-HCM, làm đầu mối phối hợp với các ban chức năng và các trung tâm trực thuộc."
+  },
+  {
+    "input": "Trách nhiệm của cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện là gì?",
+    "target": "Bao gồm: ban hành văn bản quy định thực hiện quy chế và khung tiêu chí đánh giá chi tiết; đánh giá hàng năm; đề xuất điều chỉnh, sửa đổi nội dung phù hợp; công nhận kết quả hoạt động rèn luyện; tạo điều kiện cho sinh viên tham gia hoạt động rèn luyện; báo cáo công tác thực hiện về ĐHQG-HCM."
+  },
+  {
+    "input": "Trách nhiệm của Trung tâm Quản lý Ký túc xá ĐHQG-HCM là gì?",
+    "target": "Bao gồm: cấp giấy chứng nhận hoặc xác nhận đối với sinh viên tham gia các hoạt động rèn luyện tại Ký túc xá ĐHQG-HCM; phối hợp với cơ sở đào tạo trong công tác đánh giá kết quả rèn luyện sinh viên."
+  },
+  {
+    "input": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên khuyết tật hoặc có hoàn cảnh đặc biệt là gì?",
+    "target": "Sinh viên khuyết tật hoặc mồ côi, có hoàn cảnh gia đình đặc biệt khó khăn có xác nhận của địa phương không có khả năng tham gia hoặc không đáp ứng yêu cầu chung các hoạt động rèn luyện thì được ưu tiên, khuyến khích, cộng điểm khi đánh giá kết quả rèn luyện."
+  },
+  {
+    "input": "Quy định về đánh giá kết quả rèn luyện đối với sinh viên học hai chương trình đào tạo là gì?",
+    "target": "Sinh viên đồng thời học hai chương trình đào tạo sẽ được đánh giá kết quả rèn luyện tại cơ sở đào tạo quản lý chương trình thứ nhất. Trường hợp chương trình thứ nhất đã hoàn thành thì cơ sở đào tạo quản lý chương trình thứ hai sẽ tiếp tục đánh giá kết quả rèn luyện của sinh viên."
+  },
+  {
+    "input": "Quy tắc này quy định về vấn đề gì?",
+    "target": "Quy tắc này quy định các chuẩn mực ứng xử phù hợp với văn hóa, đạo đức, quy định của Pháp luật và Trường Đại học Quốc tế."
+  },
+  {
+    "input": "Quy tắc này áp dụng cho những đối tượng nào?",
+    "target": "Quy tắc này áp dụng cho người học đang học tập tại trường Đại học Quốc tế - Đại học Quốc gia thành phố Hồ Chí Minh."
+  },
+  {
+    "input": "Mục đích của Quy tắc ứng xử là gì?",
+    "target": "Mục đích bao gồm: quy định các chuẩn mực ứng xử để xây dựng tính kỷ cương, nề nếp và môi trường văn hóa trong nhà trường; giúp người học nâng cao ý thức bản thân, trách nhiệm với cộng đồng; xây dựng môi trường học tập lành mạnh, thân thiện; làm cơ sở để giám sát, đánh giá và xử lý vi phạm."
+  },
+  {
+    "input": "Các nguyên tắc xây dựng Quy tắc ứng xử là gì?",
+    "target": "Bao gồm: tuân thủ pháp luật và phù hợp với chuẩn mực đạo đức, thuần phong mỹ tục; tăng cường xây dựng văn hóa ứng xử trong trường học; dễ hiểu, dễ thực hiện; việc xây dựng, sửa đổi phải được thảo luận dân chủ, đồng thuận."
+  },
+  {
+    "input": "Các quy tắc ứng xử chung của người học là gì?",
+    "target": "Bao gồm: thực hiện nghiêm túc các quy định pháp luật; chấp hành chủ trương, chính sách của Đảng; thực hiện đầy đủ các quy định, nội quy đào tạo; chấp hành Luật Nghĩa vụ quân sự; có ý thức xây dựng, bảo vệ truyền thống nhà trường; đóng học phí đầy đủ; hưởng ứng các hoạt động của nhà trường."
+  },
+  {
+    "input": "Những hành vi nào bị nghiêm cấm trong quy tắc ứng xử chung?",
+    "target": "Bao gồm: thành lập, tham gia các hoạt động chính trị trái pháp luật; tổ chức, tham gia các hoạt động tập thể khi chưa được cho phép; hút thuốc, sử dụng đồ uống có cồn, chất cấm trong cơ sở giáo dục; sử dụng mạng xã hội để phát tán thông tin trái thuần phong mỹ tục; gian lận, dối trá, vu khống, gây hiềm khích; gây ồn ào, mất trật tự."
+  },
+  {
+    "input": "Quy tắc ứng xử với cán bộ, giảng viên, nhân viên là gì?",
+    "target": "Bao gồm: thực hiện nghiêm túc các quy chế, quy định; kính trọng, lễ phép, trung thực; không sử dụng mạng xã hội để đăng tin thiếu tính xây dựng; nghiêm túc thực hiện quy chế thi; khách quan, trung thực trong phản hồi; tích cực hợp tác trong các hoạt động; tham gia phòng chống tiêu cực, gian lận."
+  },
+  {
+    "input": "Quy tắc ứng xử với bạn học là gì?",
+    "target": "Bao gồm: tôn trọng sự khác biệt, ứng xử chân thành, thân thiện; không ganh ghét, đố kỵ, kỳ thị; sử dụng ngôn từ trong sáng; biết lắng nghe và phản hồi mang tính xây dựng; không chen lấn, xô đẩy; đoàn kết, giúp đỡ lẫn nhau; tôn trọng đối thủ trong thi đấu thể thao."
+  },
+  {
+    "input": "Quy tắc ứng xử với khách đến thăm và làm việc tại trường là gì?",
+    "target": "Bao gồm: có thái độ lịch sự, lễ phép trong giao tiếp; nhiệt tình giúp đỡ, hướng dẫn và giải thích trong giới hạn cho phép và hiểu biết của mình khi khách có yêu cầu."
+  },
+  {
+    "input": "Trách nhiệm của các Khoa, Bộ môn trong việc thực hiện Quy tắc ứng xử là gì?",
+    "target": "Có trách nhiệm quán triệt đến người học đang học tập tại trường Đại học Quốc tế việc thực hiện Quy tắc ứng xử của người học."
+  },
+  {
+    "input": "Trách nhiệm của người học trong việc thực hiện Quy tắc ứng xử là gì?",
+    "target": "Toàn thể người học đang học tập tại Trường đều phải có trách nhiệm thực hiện đúng, đồng thời vận động, nhắc nhở những người học khác thực hiện nghiêm túc các nội dung trong Quy tắc ứng xử."
+  },
+  {
+    "input": "Trách nhiệm của Phòng Công tác Sinh viên trong việc thực hiện Quy tắc ứng xử là gì?",
+    "target": "Phối hợp với Phòng Đào tạo đại học, các đơn vị Khoa, Bộ môn, Phòng Thanh tra Pháp chế, Phòng Bảo đảm Chất lượng Giáo dục, Đoàn thanh niên và Hội sinh viên Trường trong việc ban hành và theo dõi việc thực hiện Quy tắc ứng xử."
+  },
+  {
+    "input": "Trách nhiệm của Phòng Đào tạo đại học trong việc thực hiện Quy tắc ứng xử là gì?",
+    "target": "Có trách nhiệm rà soát, hoàn thiện các văn bản liên quan làm cơ sở xây dựng Bộ Quy tắc ứng xử dành cho người học như quy chế học vụ, quy chế công tác học sinh sinh viên, quy chế đánh giá điểm rèn luyện, nội quy sinh viên."
+  },
+  {
+    "input": "Trách nhiệm của các Khoa, Bộ môn, Đoàn thanh niên, Hội sinh viên trong việc tuyên truyền Quy tắc ứng xử là gì?",
+    "target": "Có trách nhiệm tuyên truyền, tổ chức các hoạt động tạo môi trường văn hóa trong trường học và tuyên truyền các mô hình văn hóa ứng xử cho học sinh, sinh viên trong suốt năm học."
+  },
+  {
+    "input": "Trách nhiệm của Phòng Đào tạo đại học và Phòng Bảo đảm Chất lượng Giáo dục trong việc kiểm tra, đánh giá là gì?",
+    "target": "Tổ chức kiểm tra, đánh giá, lấy ý kiến phản hồi quá trình thực hiện từ các khoa, bộ môn, người học; phát hiện, giới thiệu Phòng Công tác Sinh viên khen thưởng các tấm gương điển hình trong việc xây dựng văn hóa ứng xử trong nhà trường."
+  },
+  {
+    "input": "Quy định về việc xử lý các vấn đề vướng mắc trong quá trình thực hiện là gì?",
+    "target": "Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc hoặc phát sinh, các đơn vị phản ánh về Phòng Công tác Sinh viên để tổng hợp trình Hiệu trưởng xem xét, điều chỉnh, bổ sung cho phù hợp."
+  },
+  {
+    "input": "Hiệu lực thi hành của Quy tắc ứng xử được quy định như thế nào?",
+    "target": "Quy tắc ứng xử có hiệu lực kể từ ngày ký Quyết định. Những trường hợp vi phạm không thuộc phạm vi của Quy tắc ứng xử sẽ được xử lý theo pháp luật quy định."
+  },
+  {
+    "input": "Quy định về việc điều chỉnh Quy tắc ứng xử là gì?",
+    "target": "Trong trường hợp cần thiết, Hiệu trưởng có thể quyết định điều chỉnh quy định cụ thể cho phù hợp với tình hình thực tế và hướng dẫn để các đơn vị áp dụng tạm thời trước khi xem xét sửa đổi chính thức."
+  },
+  {
+    "input": "Quy định về trang phục của người học là gì?",
+    "target": "Trang phục, diện mạo của người học phải phù hợp với lứa tuổi và hoạt động giáo dục. Không trang điểm, ăn mặc phản cảm làm xấu đi hình ảnh của bản thân và nhà trường."
+  },
+  {
+    "input": "Quy định về việc sử dụng mạng xã hội của người học là gì?",
+    "target": "Không được sử dụng mạng xã hội để phát tán, tuyên truyền, bình luận những thông tin hoặc hình ảnh trái thuần phong mỹ tục, trái đường lối của Đảng, chính sách, pháp luật của nhà nước hoặc làm ảnh hưởng xấu đến môi trường giáo dục."
+  },
+  {
+    "input": "Quy định về việc bảo vệ cơ sở vật chất của người học là gì?",
+    "target": "Phải bảo vệ, giữ gìn cảnh quan cơ sở giáo dục; xây dựng môi trường giáo dục an toàn, thân thiện, xanh, sạch, đẹp. Giữ gìn và bảo vệ cơ sở vật chất, trang thiết bị dạy và học, thực hành tiết kiệm, chống lãng phí của công."
+  },
+  {
+    "input": "Quy định về việc tham gia các hoạt động xã hội của người học là gì?",
+    "target": "Phải tham gia lao động và hoạt động xã hội, hoạt động bảo vệ môi trường phù hợp với năng lực, sức khỏe và yêu cầu của nhà trường."
+  },
+  {
+    "input": "Quy định về việc thực hiện lối sống của người học là gì?",
+    "target": "Phải thực hiện lối sống lành mạnh, tích cực, quan tâm chia sẻ và giúp đỡ người khác."
+  },
+  {
+    "input": "Quy định về việc chấp hành nghĩa vụ quân sự của người học là gì?",
+    "target": "Phải chấp hành nghiêm chỉnh Luật Nghĩa vụ quân sự: đăng ký tạm hoãn nghĩa vụ quân sự tại địa phương trong thời gian học tập tại trường; chấp hành lệnh điều động tham dự huấn luyện sĩ quan dự bị trong quá trình học tập tại trường hoặc phục vụ các lực lượng Vũ trang sau khi tốt nghiệp."
+  },
+  {
+    "input": "Nội quy này được ban hành nhằm mục đích gì?",
+    "target": "Để đảm bảo môi trường sinh hoạt học tập tốt tại trường Đại học Quốc tế - Đại học Quốc gia TP.HCM."
+  },
+  {
+    "input": "Nội quy này được ban hành theo quyết định nào?",
+    "target": "Ban hành theo Quyết định số 276/QĐ-ĐHQT/ĐT ngày 10/9/2008 của Hiệu trưởng Trường Đại học Quốc tế Tp.HCM."
+  },
+  {
+    "input": "Quy định về việc lên lớp và trang phục của sinh viên là gì?",
+    "target": "Phải lên lớp đúng giờ, trang phục gọn gàng lịch sự kín đáo, ứng xử, giao tiếp văn minh lịch sự phù hợp với môi trường sư phạm. Ngôn ngữ giao tiếp trong khuôn viên Nhà trường bằng Tiếng Anh."
+  },
+  {
+    "input": "Quy định về thái độ với thầy cô và bạn bè là gì?",
+    "target": "Phải tôn trọng lễ phép với thầy cô giáo, cán bộ viên chức, lịch sự và hiếu khách, hòa đồng và sẵn sàng giúp đỡ bạn bè."
+  },
+  {
+    "input": "Quy định về việc đi xe buýt là gì?",
+    "target": "Cần xếp hàng thứ tự trước sau khi lên xe, giữ gìn vệ sinh, văn minh lịch sự và trật tự trên xe buýt."
+  },
+  {
+    "input": "Quy định về vệ sinh và sử dụng phòng học là gì?",
+    "target": "Phải giữ gìn vệ sinh chung, sử dụng nhà vệ sinh theo đúng quy định. Không được mang hoặc sử dụng các loại thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm."
+  },
+  {
+    "input": "Quy định về việc nghỉ trưa là gì?",
+    "target": "Không được nằm ở khu vực hành lang, trên lối đi. Được nghỉ trưa tại phòng học từ 11 giờ 30 đến 12 giờ 30."
+  },
+  {
+    "input": "Quy định về an ninh trật tự trong khuôn viên trường là gì?",
+    "target": "Phải đảm bảo an ninh trật tự trong khuôn viên nhà trường, không gây tiếng ồn, không sử dụng các phương tiện gây tiếng ồn; không chơi thể thao, chạy nhảy đùa giỡn trong phòng học, khu vực gần phòng học, khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường."
+  },
+  {
+    "input": "Quy định về việc tuân thủ quy định chung của tòa nhà là gì?",
+    "target": "Phải tuân thủ theo tất cả quy định chung của tòa nhà Điều hành ĐHQG-HCM. Các loại phương tiện vào trường phải gửi đúng nơi quy định."
+  },
+  {
+    "input": "Quy định về việc bảo quản tài sản và trang thiết bị là gì?",
+    "target": "Phải giữ gìn bảo quản tài sản và các trang thiết bị của nhà trường. Thực hiện tốt quy định về việc mượn và trả thiết bị phục vụ công tác giảng dạy. Không tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không dán giấy, viết vẽ trên tường, bàn học."
+  },
+  {
+    "input": "Quy định về việc tổ chức hội họp và sử dụng trang thiết bị là gì?",
+    "target": "Chỉ được phép tổ chức hội họp, di chuyển bàn ghế, trang trí phòng học, sử dụng các trang thiết bị khi có sự chấp thuận của Phòng Quản trị Thiết bị."
+  },
+  {
+    "input": "Quy định về việc sử dụng trang thiết bị của nhà trường là gì?",
+    "target": "Không được sử dụng trang thiết bị của nhà trường vào các mục đích khác với học tập và nghiên cứu."
+  },
+  {
+    "input": "Quy định về việc sử dụng thang máy là gì?",
+    "target": "Không được đùa giỡn trong thang máy, tùy tiện bấm chọn các tầng khi không có nhu cầu."
+  },
+  {
+    "input": "Quy định về việc hút thuốc và uống rượu bia là gì?",
+    "target": "Cấm hút thuốc, uống rượu bia trong khuôn viên trường học."
+  },
+  {
+    "input": "Quy định về các hoạt động bị cấm là gì?",
+    "target": "Cấm thành lập, tham gia các hoạt động mang tính chất chính trị pháp luật, tệ nạn xã hội; tổ chức tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
+  },
+  {
+    "input": "Quy định về việc sản xuất, buôn bán và sử dụng các chất cấm là gì?",
+    "target": "Cấm sản xuất, buôn bán, vận chuyển, tàng trữ, phát tán, sử dụng các loại vũ khí, chất gây cháy nổ, chất ma túy, hàng cấm; các tài liệu, ấn phẩm phản động, đồi trụy, cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
+  },
+  {
+    "input": "Quy định về các hoạt động tôn giáo và mê tín dị đoan là gì?",
+    "target": "Nghiêm cấm tổ chức, tham gia truyền bá các hoạt động mê tín dị đoan, các hoạt động của các tổ chức, tôn giáo trong nhà trường và các hoạt động vi phạm đạo đức khác."
+  },
+  {
+    "input": "Hiệu lực thi hành của nội quy này là gì?",
+    "target": "Nội quy này được áp dụng kể từ ngày ký."
+  },
+  {
+    "input": "Quy định về xử lý vi phạm nội quy là gì?",
+    "target": "Mọi vi phạm tùy mức độ cụ thể sẽ được xử lý từ khiển trách đến buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan chức năng xử lý theo qui định của pháp luật."
+  },
+  {
+    "input": "Quy định về việc sử dụng phòng học và giảng đường là gì?",
+    "target": "Không được mang thức ăn, nước uống vào phòng học, giảng đường, phòng thí nghiệm. Không được chơi thể thao, chạy nhảy đùa giỡn trong phòng học và khu vực gần phòng học."
+  },
+  {
+    "input": "Quy định về việc sử dụng khu vực hành chính là gì?",
+    "target": "Không được gây ồn ào, mất trật tự trong khu vực hành chính gây ảnh hưởng tới hoạt động của nhà trường."
+  },
+  {
+    "input": "Quy định về việc sử dụng tài sản công là gì?",
+    "target": "Phải giữ gìn và bảo vệ tài sản công, không được tự ý di chuyển, sắp xếp, điều chỉnh sử dụng các thiết bị phục vụ giảng dạy. Không được dán giấy, viết vẽ trên tường, bàn học."
+  },
+  {
+    "input": "Quy định về việc sử dụng Internet trong trường là gì?",
+    "target": "Cấm truy cập các nguồn thông tin không lành mạnh trên Internet."
+  },
+  {
+    "input": "Quy định về việc tổ chức các hoạt động trong trường là gì?",
+    "target": "Không được tổ chức, tham gia các hoạt động tập thể mang danh nghĩa nhà trường khi chưa được Hiệu trưởng cho phép."
+  },
+  {
+    "input": "Quy định về việc sử dụng ngôn ngữ giao tiếp trong trường là gì?",
+    "target": "Ngôn ngữ giao tiếp trong khuôn viên Nhà trường phải bằng Tiếng Anh."
+  }
+]
